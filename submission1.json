@@ -1,0 +1,6 @@
+{
+"prompt": "A hyper-realistic photograph of a man standing stiffly in a room, wearing an extremely tight, custom-tailored grey suit that perfectly matches his exact posture, with fabric stretched unnaturally across joints, preventing any movement. The man appears tense and unable to bend or move, with clenched fists and rigid stance. The environment is a natural indoor living space with soft warm lighting, realistic furniture in the background, cinematic composition, shallow depth of field, ultra-detailed, 4k realism. No text, no symbols, no diagrams, no annotations, no floating elements, no surreal distortions. Entirely physically plausible scene.",
+"model": "DALL·E 3",
+"concept": "overfitting",
+"metaphor": "A suit tailored perfectly to one rigid pose restricts movement, representing a model that fits training data exactly but cannot generalize to new situations."
+}
